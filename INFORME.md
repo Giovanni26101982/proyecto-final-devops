@@ -7,10 +7,13 @@
   - Giovanni Xavier Baño Jaya
   - César Paúl Jara Pauta
 - **Usuario GitHub:** `PaulJara84`
+-  `Giovanni26101982`
 - **Usuario Docker Hub:** `pauljara84`
 - **Correo GitHub utilizado en Git:** `PaulJara84@github.com`
+-  `Giovanni26101982@github.com`
 - **Sistema operativo:** Ubuntu de 64 bits
 - **Repositorio GitHub:** `https://github.com/PaulJara84/proyecto-final-devops`
+-  `https://github.com/Giovanni26101982/proyecto-final-devops`
 - **Repositorio Docker Hub:** `https://hub.docker.com/r/pauljara84/devops-final-project`
 - **Imagen publicada:** `pauljara84/devops-final-project:v1`
 
@@ -32,7 +35,7 @@ Aplicar prácticas DevOps mediante Git, GitFlow, GitHub Actions y Docker para ve
 
 ```text
 proyecto-final-devops/
-├── .github/workflows/docker-publish.yml
+├── .github/workflows/dockerhub.yml
 ├── app/main.py
 ├── app/templates/index.html
 ├── docs/evidencias/
@@ -128,7 +131,7 @@ pauljara84/devops-final-project:v1
 
 ### Evidencia 1: imagen publicada en Docker Hub
 
-> Coloque únicamente la captura autorizada en `docs/evidencias/dockerhub-v1.png`.
+`docs/evidencias/dockerhub-v1.png`.
 
 ![Imagen v1 publicada en Docker Hub](docs/evidencias/dockerhub-v1.png)
 
@@ -198,7 +201,7 @@ curl http://localhost:8004/metrics
 
 ### Evidencia 2: página inicial del contenedor
 
-> Coloque únicamente la captura autorizada en `docs/evidencias/aplicacion-grupo4.png`. La imagen debe mostrar la URL, Grupo 4, los integrantes y el nombre del curso.
+`docs/evidencias/aplicacion-grupo4.png`
 
 ![Aplicación ejecutada por el Grupo 4](docs/evidencias/aplicacion-grupo4.png)
 
